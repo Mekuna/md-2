@@ -1,0 +1,30 @@
+/**********Tag selectors********/
+h1{
+    color: aqua;
+    font-size: 150px;
+}
+h1:hover{
+    color: darkred;
+}
+
+img:hover{
+    background-color:gold;
+}
+
+/********Class celectors*********/
+.apple {
+background-color: red;
+}
+.peach{
+background-color: rgb(240, 119, 139);
+}
+.circular{
+    border-radius: 100%;
+}
+/************ID Selectors**********/
+ #heading{
+  color: coral;  
+}
+#big{
+    font-size: 1000px;
+}
